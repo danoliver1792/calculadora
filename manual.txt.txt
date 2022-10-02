@@ -1,0 +1,45 @@
+---------- version 0.1 -----------
+
+Esta calculadora feita com a Linguagem Python faz calculos
+matemáticos básicos. Estamos na versão Beta do projeto com
+melhorias em vista. Nesta primeira versão, tem-se um padrão
+utilizado pelos programadores e, além disso, os próximos 
+passos serão a transformação entre Radianos e Graus nas 
+conversões trigonométricas.
+
+- Para limpar tela:
+Basta clicar em 'C'
+
+- Calculos de adição, subtração, multiplicação e divisão:
+'Numero1' + '+, -, x ou ÷' + 'Numero2' + '='
+
+- Para cálculos trigonométricos (Tangente, Seno e Cosseno):
+
+'tan' + '(' + 'Numero' + ')' + '='
+'sin' + '(' + 'Numero' + ')' + '='
+'cos' + '(' + 'Numero' + ')' + '='
+
+- Para extrair a raíz quadrada:
+'√' + '(' + 'Numero' + ')' + '='
+
+- Para logaritmos:
+'log' + '(' + 'Numero Logaritmo' + ',' + 'Numero Base' + ')' + '='
+
+- Fatorial de um número:
+'!' + '(' + 'Numero' + ')' + '='
+
+- Potenciação:
+'pow' + '(' + 'Numero' + ',' + 'Expoente' + ')' + '='
+
+Constantes:
+'e' + '=' -> 2.718281828459045
+'π' + '=' -> 3.141592653589793
+
+Importante:
+Sempre usar '.' para números decimais
+
+Ex.:
+3.14
+2.71
+32.55
+754.345
